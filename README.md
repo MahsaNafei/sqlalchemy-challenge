@@ -1,6 +1,6 @@
 # Climate Analysis with Flask Integration
 
-#### Introduction
+### Introduction
 
 This project involves the climate data analysis and creating a web-based interface using Flask to access the analyzed data. The analysis includes exploring precipitation data, station information, temperature data, and more. This README explains the main components of this project.
 
