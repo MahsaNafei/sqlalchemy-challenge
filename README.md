@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project involves the climate data analysis and creating a web-based interface using Flask to access the analyzed data. The analysis includes exploring precipitation data, station information, temperature data, and more. This README explains the main components of this project.
+This project involves the climate data analysis and creating a web-based interface using Flask to access the analyzed data. The analysis includes exploring precipitation data, station information, temperature data, and more.
 
 ### Data Analysis 
 
@@ -24,7 +24,7 @@ The Python script (climate.ipynb) performs data analysis and calculations on cli
 
 - **Data Sorting**: The DataFrame is sorted by date.
 
-- **Data Plotting**: The precipitation data is plotted using Matplotlib, and the plot is saved as a PNG file. The plot displays the relationship between date and precipitation.
+- **Data Plotting**: The precipitation data is plotted using Matplotlib. The plot displays the relationship between date and precipitation.
 
 - **Summary Statistics**: Using Pandas, summary statistics (mean, standard deviation, minimum, and maximum) are calculated for the precipitation data.
 
